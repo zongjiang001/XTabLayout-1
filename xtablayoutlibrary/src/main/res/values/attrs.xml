@@ -5,6 +5,8 @@
         <attr name="xTabIndicatorHeight" format="dimension"/>
         <attr name="xTabIndicatorWidth" format="dimension"/>
         <attr name="xTabIndicatorColor" format="color"/>
+        <attr name="xTabIndicatorColorStart" format="color"/>
+        <attr name="xTabIndicatorColorEnd" format="color"/>
         <attr name="xTabPadding" format="dimension"/>
         <attr name="xTabPaddingStart" format="dimension"/>
         <attr name="xTabPaddingTop" format="dimension"/>
